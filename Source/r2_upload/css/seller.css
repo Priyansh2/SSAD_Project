@@ -1,0 +1,176 @@
+#seller_main{
+
+
+    background-image: url(../images/background1.jpg);
+}
+
+
+label{
+
+	 
+	  font-family: 'Pacifico', cursive;
+	  letter-spacing: 0.05em;
+	  word-spacing: 0.05em;
+	  font-size: 130%;
+color:white;
+
+}
+/*input[type='text']{
+
+
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}*/
+
+#customer_ID{
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#product_ID{
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#price{
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#items{
+   
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#logout{
+
+clear:both;
+float:right;
+
+margin-top: -5%;
+}
+.logout_btn {
+    background-color: #0040C0; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    letter-spacing: 0.05em;
+	  word-spacing: 0.05em;
+    margin: 4px 2px;
+
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.logout_btn:hover{
+
+
+
+	opacity: 0.7;
+}
+
+
+#seller_page{
+
+display: none;
+
+    
+
+}
+
+
+#insert_btn{
+
+
+	 background-color: #804000; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+margin-right: 15%;
+margin-top: 5%;
+ font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+	  word-spacing: 0.05em;
+}
+
+#finish_btn{
+
+
+	 background-color: #00FF00; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+margin-left: 15%;
+ font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+	  word-spacing: 0.05em;
+}
+#insert_btn:hover{
+
+
+	opacity : 0.8;
+}
+#finish_btn:hover {
+
+    opacity: 0.7;
+}
+#finish_form{
+
+
+	margin-top: -4.9%;
+}
+
+#msg{
+display:none;
+font-weight: bold;
+    font-size:250%;
+    text-align: center;
+color:orange; 
+     font-family: 'Kaushan Script', cursive;
+}

@@ -1,0 +1,38 @@
+@font-face {
+	font-family: 'Rancho';
+	font-style: normal;
+	font-weight: 400;
+src: local('Rancho'), url(../fonts/f3.woff) format('woff');
+}
+
+@font-face {
+	font-family: 'Tangerine';
+	font-style: normal;
+	font-weight: 400;
+src: local('Tangerine'), url(../fonts/f.woff) format('woff');
+}
+
+@font-face{
+	font-family: 'Pacifico';
+	font-style: normal;
+	font-weight: 400;
+src: local('Pacifico'), url(../fonts/f1.woff) format('woff');
+}
+@font-face {
+	font-family: 'Indie Flower';
+	font-style: normal;
+	font-weight: 400;
+src: local('Indie Flower'), local('../fonts/IndieFlower'), url(f4.woff) format('woff');
+}
+@font-face {
+	  font-family: 'Creepster';
+	    font-style: normal;
+		  font-weight: 400;
+		    src: local('Creepster'), url(../fonts/f5.woff) format('woff');
+		}
+@font-face {
+	  font-family: 'Kaushan Script';
+	    font-style: normal;
+		  font-weight: 400;
+		    src: local('Kaushan Script'), url(../fonts/f6.woff) format('woff');
+		}
